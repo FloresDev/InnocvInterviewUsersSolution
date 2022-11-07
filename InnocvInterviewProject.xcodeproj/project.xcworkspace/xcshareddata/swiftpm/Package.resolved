@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "foundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PromiseKit/Foundation.git",
+      "state" : {
+        "revision" : "985f17fa69ee0e5b7eb3ff9be87ffc4e05fc0927",
+        "version" : "3.4.0"
+      }
+    },
+    {
+      "identity" : "promisekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mxcl/PromiseKit",
+      "state" : {
+        "branch" : "v6",
+        "revision" : "43772616c46a44a9977e41924ae01d0e55f2f9ca"
+      }
+    },
+    {
+      "identity" : "qnetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/QuadramMobi/QNetworking",
+      "state" : {
+        "revision" : "ef4c303720801c4767f9c2f85a48d3109a81f29b",
+        "version" : "1.1.10"
+      }
+    }
+  ],
+  "version" : 2
+}
